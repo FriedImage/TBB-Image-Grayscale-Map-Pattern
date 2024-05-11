@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapGrayscaleConv", "MapGrayscaleConv\MapGrayscaleConv.vcxproj", "{19D4C7A9-DD96-42BC-8F9D-77B013CFEF0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D4C7A9-DD96-42BC-8F9D-77B013CFEF0F}.Debug|x64.ActiveCfg = Debug|x64
+		{19D4C7A9-DD96-42BC-8F9D-77B013CFEF0F}.Debug|x64.Build.0 = Debug|x64
+		{19D4C7A9-DD96-42BC-8F9D-77B013CFEF0F}.Release|x64.ActiveCfg = Release|x64
+		{19D4C7A9-DD96-42BC-8F9D-77B013CFEF0F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC6DC8F-3388-45BA-ADD6-E882F4D990AE}
+	EndGlobalSection
+EndGlobal
